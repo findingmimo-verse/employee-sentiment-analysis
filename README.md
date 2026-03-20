@@ -1,4 +1,4 @@
-# employee-sentiment-analysis
+# Employee Sentiment Analysis
 AI project - sentiment analysis of Employee emails
 
 ### Top Positive Employees
